@@ -1,3 +1,11 @@
+# DAPP (Decentralized Application)
+
+DAPP is an application that runs on a blockchain network. It uses smart contracts to manage the backend logic and user interface. DAPPs are decentralized, meaning that no single entity controls them.
+
+# SUI DAPP
+
+SUI is a blockchain and I built a DAPP (Decentralized Application) on it.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
